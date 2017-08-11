@@ -1,0 +1,152 @@
+#todo {
+	padding: 10px;
+}
+#contenido {
+	margin: 10px;
+	background-color: #E6E6E6;
+	padding: 10px;
+	overflow: hidden;
+}
+#titular {
+	width: 90%;
+	margin: auto;
+	padding: 10px;
+}
+#nombre-fecha {
+	overflow: hidden;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	width: 90%;
+}
+
+#beneficiarios {
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	width: 90%;
+	overflow: hidden;
+}
+.titulo {
+	width: 90%;
+	margin: auto;
+	background-color: #94ea91;
+}
+
+#beneficiario2 {
+	width: 47%;
+	margin: 10px;
+	float: left;
+}
+#nombre {
+	width: 47%;
+	margin: 10px;
+	float: left;
+}
+#textfield {
+}
+
+#fecha   {
+	width: 47%;
+	margin: 10px;
+	float: left;
+}
+
+
+#form1 {
+	overflow: hidden;
+}
+#beneficiario1 {
+	width: 47%;
+	margin: 10px;
+	float: left;
+}
+
+.cajas-texto{
+	float: right;
+	width: 100px;
+	margin: 10px;
+}
+
+#dimicilio {
+	width: 90%;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+#button {
+	border-radius: 7px;
+	margin: 5px;
+	height: 30px;
+	background-color: #94ea91;
+	color: white;
+
+
+}
+#header img {
+	width: 20%;
+	height: auto;
+}
+#header {
+}
+#div-header2 {
+	float: left;
+	width: 35%;
+	text-align: center;
+}
+#header {
+	padding: 10px;
+	overflow: hidden;
+}
+#div-header1 {
+	width: 30%;
+	padding: 10px;
+	float: left;
+	text-align: center;
+}
+#div-header3 {
+	float: left;
+	padding: 10px;
+	width: 30%;
+	text-align: center;
+}
+
+
+
+
+
+
+#boton {
+	margin: auto;
+	text-align: center;
+	float: left;
+	width: 100%;
+}
+#logo-index {
+	text-align: center;
+}
+#img-index {
+	width: 200px;
+	height: auto;
+}
+
+#login {
+	margin: auto;
+	width: 300px;
+}
+#images {
+	margin: 0;
+
+
+}
+
+#img1 {
+	padding: 10px;
+}
+#img2 {
+	padding: 10px;
+}
